@@ -5,13 +5,13 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyBnNdrSswx_f1eoGRPL8KhdKQwc7mn14Jc",
-    authDomain: "angular-forum-90148.firebaseapp.com",
-    databaseURL: "https://angular-forum-90148.firebaseio.com",
-    projectId: "angular-forum-90148",
-    storageBucket: "angular-forum-90148.appspot.com",
-    messagingSenderId: "522998174452",
-    appId: "1:522998174452:web:bc0ea34d7413f70d"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
   }
 };
 
