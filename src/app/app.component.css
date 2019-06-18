@@ -1,0 +1,26 @@
+nav {
+
+    background: black;
+    padding: 14px 0;
+    padding-bottom: 1em;
+    margin-bottom: 4em;
+}
+
+nav a{
+    color: white;
+    padding: 3em 2em ;
+    font-size: 1.3em;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+}
+
+nav li{
+    display: inline-block;
+    margin: 0 10px;
+}
